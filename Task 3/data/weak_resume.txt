@@ -1,0 +1,27 @@
+Name: Zara Malik
+Email: zara.malik@email.com
+
+SUMMARY
+Recent computer science graduate eager to learn backend development.
+Completed several academic projects using Python and MySQL.
+
+SKILLS
+- Python (basic)
+- HTML, CSS
+- MySQL
+
+TOOLS
+- Git (basic)
+
+EXPERIENCE
+Intern – WebSoft Agency (2023, 3 months)
+  - Assisted senior developers with minor bug fixes in Python scripts
+  - Wrote basic SQL queries for data retrieval
+
+Academic Projects:
+  - Student Management System using Python and MySQL (college project)
+  - Simple To-Do web app using HTML, CSS, and basic Python scripting
+
+EDUCATION
+B.Sc. Computer Science – Virtual University of Pakistan (2023)
+  - GPA: 3.1 / 4.0

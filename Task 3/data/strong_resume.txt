@@ -1,0 +1,37 @@
+Name: Ayesha Khan
+Email: ayesha.khan@email.com
+LinkedIn: linkedin.com/in/ayeshakhan-dev
+
+SUMMARY
+Senior Python Backend Developer with 6 years of professional experience building scalable APIs
+and distributed systems. Proven track record of delivering production-grade applications on AWS.
+
+SKILLS
+- Python, FastAPI, REST APIs, System Design
+- PostgreSQL, Redis, SQLAlchemy
+- Asynchronous programming (asyncio)
+
+TOOLS & TECHNOLOGIES
+- Docker, Kubernetes
+- AWS (EC2, S3, RDS, Lambda)
+- Git, GitHub Actions (CI/CD Pipelines)
+- Nginx, Celery
+
+EXPERIENCE
+Senior Backend Developer – TechNova Solutions (2021–Present, 3 years)
+  - Designed and deployed 15+ REST APIs using FastAPI serving 500K+ daily requests
+  - Led migration of monolithic Django app to microservices using Docker and Kubernetes
+  - Managed PostgreSQL databases with advanced query optimization (30% performance gain)
+  - Set up AWS infrastructure (EC2, RDS, S3) and automated deployments via GitHub Actions CI/CD
+
+Backend Developer – DataBridge Inc. (2018–2021, 3 years)
+  - Built backend services in Python using Flask and REST APIs
+  - Implemented Redis caching layer reducing DB load by 40%
+  - Collaborated on system design for a real-time analytics platform
+
+EDUCATION
+B.Sc. Computer Science – University of Karachi (2018)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Associate
+- Docker Certified Associate

@@ -1,0 +1,29 @@
+Name: Bilal Ahmed
+Email: bilal.ahmed@email.com
+
+SUMMARY
+Python Developer with 3 years of experience in web development and backend APIs.
+Comfortable working with databases and cloud environments at a mid level.
+
+SKILLS
+- Python, REST APIs, Django
+- PostgreSQL, Basic SQL
+
+TOOLS & TECHNOLOGIES
+- Docker
+- Git
+- AWS EC2
+
+EXPERIENCE
+Python Developer – CodeWorks Ltd. (2021–Present, 3 years)
+  - Developed backend APIs using Django REST Framework for e-commerce platform
+  - Managed PostgreSQL databases and wrote complex SQL queries
+  - Containerized application using Docker for staging environment
+  - Deployed services on AWS EC2 instances
+
+Junior Developer – Freelance (2020–2021, 1 year)
+  - Built small web apps using Python and Flask
+  - Used Git for version control in team projects
+
+EDUCATION
+B.Sc. Software Engineering – FAST-NUCES Lahore (2020)

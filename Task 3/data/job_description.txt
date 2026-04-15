@@ -1,0 +1,35 @@
+Job Title: Senior Python Backend Developer
+
+About the Role:
+We are looking for a skilled Senior Python Backend Developer to join our growing engineering team.
+You will be responsible for designing, building, and maintaining scalable backend systems and APIs.
+
+Required Skills:
+- Python
+- FastAPI
+- REST APIs
+- PostgreSQL
+- Redis
+- System Design
+
+Required Tools & Technologies:
+- Docker
+- Kubernetes
+- AWS (EC2, S3, RDS)
+- Git
+- CI/CD Pipelines
+
+Required Experience:
+5+ years of professional backend development experience, with at least 2 years in a senior role.
+
+Responsibilities:
+- Design and implement high-performance REST APIs using FastAPI
+- Work with relational databases (PostgreSQL) and caching layers (Redis)
+- Containerize services using Docker and orchestrate with Kubernetes
+- Deploy and manage cloud infrastructure on AWS
+- Participate in code reviews and mentor junior developers
+
+Nice to Have:
+- Experience with message queues (RabbitMQ or Kafka)
+- Knowledge of GraphQL
+- Familiarity with microservices architecture
